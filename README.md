@@ -6,3 +6,4 @@ sola
 fol
 goun
 dea
+wen
